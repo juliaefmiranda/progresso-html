@@ -21,34 +21,37 @@ section {
 
 h2 {
     margin-bottom: 15px;
-    color: rgb(26, 86, 134);
+    color: rgb(75, 75, 75);
 }
 
 .flex-container {
     width: 90%;
     height: 200px;
-    background-color: rgb(12, 72, 121);
+    background-color: rgb(40, 83, 175);
     margin: 0 auto 20px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    border: 1.5px solid rgb(43, 80, 136);;
     border-radius: 18px;
 }
 
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(43, 80, 136);
-    border: 2px solid rgb(195, 227, 253);;
+    background-color: rgb(40, 83, 175);
+    border: 2px solid rgb(156, 203, 241);
     justify-content: center;
     align-items: center;
     display: flex;
     border-radius: 13px;
     margin: 10px;
-    color: aliceblue;
+    color: rgb(206, 249, 255);
 }
 
 .justify-center {
     justify-content: center;
+}
+
+.flex-end {
+    justify-content: right;
 }
