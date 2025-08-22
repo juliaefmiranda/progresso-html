@@ -21,29 +21,34 @@ section {
 
 h2 {
     margin-bottom: 15px;
-    color: rgb(83, 120, 151);
+    color: rgb(26, 86, 134);
 }
 
 .flex-container {
     width: 90%;
     height: 200px;
-    background-color: rgb(139, 172, 199);
+    background-color: rgb(12, 72, 121);
     margin: 0 auto 20px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    border:  2px solid rgb(77, 106, 129);
-     border-radius: 10px;
+    border: 1.5px solid rgb(43, 80, 136);;
+    border-radius: 18px;
 }
 
 .flex-item {
     width: 80px;
     height: 80px;
-    background-color: rgb(206, 231, 252);
-    border: 2px solid rgb(77, 106, 129);
+    background-color: rgb(43, 80, 136);
+    border: 2px solid rgb(195, 227, 253);;
     justify-content: center;
     align-items: center;
     display: flex;
-    border-radius: 10px;
+    border-radius: 13px;
     margin: 10px;
+    color: aliceblue;
+}
+
+.justify-center {
+    justify-content: center;
 }
