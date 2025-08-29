@@ -29,3 +29,31 @@
 .roxo {
     background-color: #cd92f0;
 }
+
+.semaforo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto 30px;
+    gap: 20px;
+    align-items: center;
+}
+
+.circulo {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.vermelho {
+    background-color: rgb(255, 69, 69);
+
+}
+
+.amarelo {
+    background-color: rgb(255, 255, 23);
+}
+
+.verde {
+    background-color: rgb(102, 223, 102);
+}
