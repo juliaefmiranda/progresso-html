@@ -1,5 +1,5 @@
 .flex-container {
-    width: 33%;
+    width: 250px;
     height: 150px;
     background-color: #b5e3bf;
     margin: 0 auto 60px;
@@ -22,7 +22,7 @@
     height: 150px;
 }
 
-.verde {
+.verde1 {
     background-color: #92f0a7;
 }
 
@@ -37,6 +37,11 @@
     margin: 0 auto 30px;
     gap: 20px;
     align-items: center;
+    background-color: rgb(99, 98, 98);
+    height: 500px;
+    width: 180px;
+    padding: 15px;
+    border-radius: 10px;
 }
 
 .circulo {
@@ -47,13 +52,25 @@
 
 .vermelho {
     background-color: rgb(255, 69, 69);
+    box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
 
+}
+.vermelho:hover {
+    background-color: rgb(255, 86, 86);
 }
 
 .amarelo {
     background-color: rgb(255, 255, 23);
+     box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
+}
+.amarelo:hover {
+    background-color: rgb(255, 255, 128);
 }
 
 .verde {
     background-color: rgb(102, 223, 102);
+     box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
+}
+.verde:hover {
+    background-color: rgb(142, 255, 142);
 }
