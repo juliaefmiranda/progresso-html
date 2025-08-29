@@ -8,3 +8,24 @@
     align-items: center;
     margin-top: 50px;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 15px;
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.verde {
+    background-color: #92f0a7;
+}
+
+.roxo {
+    background-color: #cd92f0;
+}
