@@ -1,0 +1,10 @@
+.flex-container {
+    width: 33%;
+    height: 150px;
+    background-color: #b5e3bf;
+    margin: 0 auto 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+}
