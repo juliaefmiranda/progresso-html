@@ -37,8 +37,8 @@
     margin: 0 auto 30px;
     gap: 20px;
     align-items: center;
-    background-color: rgb(99, 98, 98);
-    height: 500px;
+    background-color: rgb(65, 65, 65);
+    height: 530px;
     width: 180px;
     padding: 15px;
     border-radius: 10px;
@@ -51,25 +51,25 @@
 }
 
 .vermelho {
-    background-color: rgb(255, 69, 69);
-    box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
+    background-color: rgb(248, 52, 52);
+    box-shadow: 7px 7px 7px 7px rgba(255, 69, 69, 0.658);
 
 }
 .vermelho:hover {
-    background-color: rgb(255, 86, 86);
+    background-color: rgb(253, 79, 79);
 }
 
 .amarelo {
-    background-color: rgb(255, 255, 23);
-     box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
+    background-color: rgb(255, 251, 28);
+     box-shadow: 7px 7px 7px 7px rgba(255, 251, 23, 0.61);
 }
 .amarelo:hover {
-    background-color: rgb(255, 255, 128);
+    background-color: rgb(253, 255, 132);
 }
 
 .verde {
-    background-color: rgb(102, 223, 102);
-     box-shadow: 10px 10px 10px 10px rgba(165, 165, 165, 0.5);
+    background-color: rgb(84, 235, 84);
+     box-shadow: 7px 7px 7px 7px rgba(102, 223, 102, 0.63);
 }
 .verde:hover {
     background-color: rgb(142, 255, 142);
