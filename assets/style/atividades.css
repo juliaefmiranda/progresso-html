@@ -52,7 +52,7 @@
 
 .vermelho {
     background-color: rgb(248, 52, 52);
-    box-shadow: 7px 7px 7px 7px rgba(255, 69, 69, 0.658);
+    box-shadow: 0 0 30px rgba(255, 69, 69, 0.658);
 
 }
 .vermelho:hover {
@@ -61,7 +61,7 @@
 
 .amarelo {
     background-color: rgb(255, 251, 28);
-     box-shadow: 7px 7px 7px 7px rgba(255, 251, 23, 0.61);
+     box-shadow: 0 0 30px rgba(255, 251, 23, 0.61);
 }
 .amarelo:hover {
     background-color: rgb(253, 255, 132);
@@ -69,7 +69,7 @@
 
 .verde {
     background-color: rgb(84, 235, 84);
-     box-shadow: 7px 7px 7px 7px rgba(102, 223, 102, 0.63);
+     box-shadow: 0 0 30px rgba(102, 223, 102, 0.63);
 }
 .verde:hover {
     background-color: rgb(142, 255, 142);
